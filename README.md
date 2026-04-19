@@ -1,1 +1,1 @@
-# diabetes-ml-project
+# : DiseaseDiagnosis-ml-project
